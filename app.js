@@ -12,7 +12,7 @@ const test = require('./test')
 
 
 
-const bot = new Telegraf('889371432:AAHj8cosL9FY8ngcLkd6vrD7n3h9HYsXjC0')
+const bot = new Telegraf('785606583:AAHHlXI1Ez0t6JSLS-ntt3CoyIkilQOZ608')
 
 bot.use(commandArgs) //Divide the message chat into raw/command/args
 var shell = require('shelljs')
